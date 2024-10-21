@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Conquistadores Pentecostales Distrito 4</title>
+  <title>My Webpage</title>
   <style>
     body {
-      background-image: url("https://www.conquistadorespentecostales.com/wp-content/uploads/2023/09/CP_LOGO_LIGHT-1-1024x341.png"); /* Replace with your image URL */
-      background-size: cover; /* This ensures the image covers the whole page */
-      background-repeat: no-repeat; /* Prevents the image from repeating */
+      background-image: url("Background.png"); 
+      background-size: cover; 
+      background-repeat: no-repeat; 
     }
   </style>
 </head>
